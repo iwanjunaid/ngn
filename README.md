@@ -8,6 +8,7 @@ NGN is Node.JS Good News. A collection of successful stories how Node.JS brings 
 ## 2013
 
 [Paypal - Node.js at PayPal](https://www.paypal-engineering.com/2013/11/22/node-js-at-paypal/)
+[Groupon - Geekon: I-Tier](https://engineering.groupon.com/2013/node-js/geekon-i-tier/)
 
 ## 2012
 
